@@ -1,0 +1,9 @@
+ignored:
+  urls:
+    - /pages/**
+    - /pageData/**
+    - /article/**
+    - /goods/**
+    - /members/**
+    - /category/**
+    - /common/**

@@ -1,0 +1,5 @@
+com\wfz\shop\buyer\service\impl\PageServiceImpl.class
+com\wfz\shop\buyer\service\impl\VerificationSourceServiceImpl.class
+com\wfz\shop\buyer\service\impl\ArticleServiceImpl.class
+com\wfz\shop\buyer\service\impl\CategoryServiceImpl.class
+com\wfz\shop\buyer\service\impl\goods\GoodsSkuServiceImpl.class

@@ -1,0 +1,6 @@
+com\wfz\shop\buyer\service\GoodsSkuService.class
+com\wfz\shop\buyer\service\VerificationSourceService.class
+com\wfz\shop\sso\api\SSOApi.class
+com\wfz\shop\buyer\service\ArticleService.class
+com\wfz\shop\buyer\service\CategoryService.class
+com\wfz\shop\buyer\service\PageService.class

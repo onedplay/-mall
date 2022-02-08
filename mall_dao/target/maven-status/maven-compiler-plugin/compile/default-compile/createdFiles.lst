@@ -1,0 +1,9 @@
+com\wfz\shop\buyer\mapper\CategoryMapper.class
+com\wfz\shop\buyer\mapper\VerificationSourceMapper.class
+com\wfz\shop\buyer\mapper\ArticleCategoryMapper.class
+com\wfz\shop\buyer\mapper\PageTemplateMapper.class
+com\wfz\shop\buyer\mapper\TemplateDetailMapper.class
+com\wfz\shop\buyer\mapper\ArticleMapper.class
+com\wfz\shop\buyer\mapper\GoodsMapper.class
+com\wfz\shop\sso\mapper\MemberMapper.class
+com\wfz\shop\buyer\mapper\GoodsSkuMapper.class
